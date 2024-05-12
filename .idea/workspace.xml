@@ -5,55 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb3423b7-6521-402f-b439-cf733807120e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0c7b9a10-2ced-4247-9a15-7bb78f359b32-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/164954d1-dea1-4422-8a1f-6fd0490a7e7d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/22f60483-0d35-48ba-bc4a-b12469106588-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2456de25-1aea-4eea-8eae-ea4d2b18a8cb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/289c06b7-2c6e-41aa-a3fe-b7327b9f9106-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2b25289a-fe6a-45f8-a47c-8cd6b79fdf72-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2d6ebd7e-b50e-41eb-a04b-1e93f1dfd103-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3841e650-9845-4494-8d15-c0ad4b842363-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/48248be7-2d29-445c-a9ae-ec7aeee98b87-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/57213309-b844-4e69-b1b3-3907852e5e09-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5b3301e7-c226-4a8f-9c3b-7eb787cb1624-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/618d90f8-a6d6-4a79-8ad2-22a8356a5b8f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6d2a610f-483a-46f6-8a77-05e1b1c34eff-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/76b03f7c-2826-453c-807f-d02ae890d77c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7d73e14d-513c-4c4d-b625-f5d6e58fe1ce-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7f460ebf-fe83-4e32-9bd6-8fb2e77c3791-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/80486bb4-3420-496e-b463-4c13e8330b40-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8f5de376-095c-4d4c-a018-5f596592e8df-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9940cfd4-8ebd-4c86-a427-4766c04218db-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/af2fa849-47f4-41ef-ba4b-c8c433eb4622-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bd4065f5-9610-48d6-b7a3-acfbe6743e2d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ccb3393d-e292-4be8-8cdd-e80ccd04eda7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cdb794db-6aa4-4adf-b9e3-ba91d243931e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d624418c-e016-47cb-9ef7-cd8053f1f827-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e5aabd4d-cf3a-4b6f-99c4-a1c1a270f23e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e99e6351-14a2-4d0c-9730-9a0b3d356dce-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ea0dca82-677f-490f-a22c-e35833ec9ed6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ea220644-d574-439d-aaab-1141ae731e25-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ed863013-0470-4edb-a480-e4edb6e5c60b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ef82392a-dd9b-4517-8b0d-ef37b9edefee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f11c53d0-ea1d-4d6e-b7ba-1c773f7f4e9e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/faf730c5-9513-4f12-b522-8790d5ff3955-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/model/PostsDataRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/model/PostsDataResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task2Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,12 +139,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Task1Test.java</url>
-          <line>18</line>
+          <line>20</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Task2Test.java</url>
-          <line>37</line>
+          <line>40</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>

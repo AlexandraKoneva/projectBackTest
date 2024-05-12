@@ -7,12 +7,14 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import static io.qameta.allure.Allure.step;
 import static io.restassured.RestAssured.given;
 
 public class Task2Test {
 
     @Test
     public void sortTest() {
+        step("Вывод топ-10 слов из post, которые чаще всего встречаются", () -> {
         List<PostsDataResponse> postsData = given()
                 .when()
                 .contentType(ContentType.JSON)
@@ -22,6 +24,7 @@ public class Task2Test {
                 .extract().jsonPath().getList("", PostsDataResponse.class);
 
         sortedList(postsData);
+        });
     }
 
     private static void sortedList(List<PostsDataResponse> allElements) {

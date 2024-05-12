@@ -1,6 +1,8 @@
 Запуск тестов:
-выполнить команду в консоли: ./gradlew test
+1. выполнить команду в консоли: ./gradlew test
 
 
 Генерация отчета:
-выполнить команду в консоли: ./gradlew allureReport
+1. выполнить команду в консоли: ./gradlew allureReport
+2. отчет можно посмотреть в проекте по следующему пути: build -> reports -> allure-report -> найти файл index.html
+3. кликнуть правой кнопкой мыши по index.html и нажать на кнопку "Open in" -> Browser -> Chrome
