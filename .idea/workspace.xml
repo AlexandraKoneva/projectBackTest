@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb3423b7-6521-402f-b439-cf733807120e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task1Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Task2Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,35 +71,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.createPostTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.deletePostTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.patchPostTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.putPostTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.readAllTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.Task1Test.readFirstTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.readSecondTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.readTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1Test.updatePostTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task2Test.readSecondTest.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.untitled1 [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.untitled1 [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.untitled1 [testClasses].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.untitled1 [test].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.Task1Test.createPostTest.executor": "Run",
+    "Gradle.Task1Test.deletePostTest.executor": "Run",
+    "Gradle.Task1Test.patchPostTest.executor": "Run",
+    "Gradle.Task1Test.putPostTest.executor": "Run",
+    "Gradle.Task1Test.readAllTest.executor": "Debug",
+    "Gradle.Task1Test.readFirstTest.executor": "Run",
+    "Gradle.Task1Test.readSecondTest.executor": "Run",
+    "Gradle.Task1Test.readTest.executor": "Run",
+    "Gradle.Task1Test.updatePostTest.executor": "Run",
+    "Gradle.Task2Test.readSecondTest.executor": "Debug",
+    "Gradle.Task2Test.sortTest.executor": "Run",
+    "Gradle.untitled1 [build].executor": "Run",
+    "Gradle.untitled1 [clean].executor": "Run",
+    "Gradle.untitled1 [testClasses].executor": "Run",
+    "Gradle.untitled1 [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Gradle.Task2Test.sortTest">
+    <configuration name="Task2Test.sortTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Task2Test.sortTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="untitled1 [test]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -122,6 +147,11 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Task2Test.sortTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -144,7 +174,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Task2Test.java</url>
-          <line>40</line>
+          <line>52</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
